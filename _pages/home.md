@@ -6,30 +6,29 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash_cocktail2.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> Read Clips"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.21.0">Latest release v4.21.0</a></small>
+  Freelance writer specializing in food and beverage edit
 feature_row:
   - image_path: /assets/images/cake2.jpg
     alt: "editorial"
     title: "Editorial"
-    excerpt: "QSR Magazine, FSR Magazine, Chapel Hill Magazine, Durham Magazine, and more."
+    excerpt: _QSR Magazine_, _FSR Magazine_, _Chapel Hill Magazine_, _Durham Magazine_, and more.
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/wine2.jpg
     alt: "100% free"
     title: "Marketing"
-    excerpt: "Vinfolio."
+    excerpt: "Vinfolio, UberEats, Miss Vickie's, Nielsen-Massey, Restaurant Technology Inc., and more."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/headshot1.jpg
     alt: "headshot"
     title: "About me"
-    excerpt: "Dis is me."
+    excerpt: "Currently living in San Francisco and working in fine wine, I am available for freelance assignments."
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
