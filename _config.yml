@@ -85,6 +85,9 @@ footer:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/laura-kirk-35b77273"
+    - label: "Collections"
+      icon: "fas fa-fw fa-book"
+      url: /collections/
 
 
 defaults:
