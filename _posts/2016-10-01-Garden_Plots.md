@@ -6,12 +6,14 @@ categories:
 tags:
   - Relationship
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Engagement profile
 
 [Garden Plots](https://issuu.com/shannonmedia/docs/dmoct_nov16/104)

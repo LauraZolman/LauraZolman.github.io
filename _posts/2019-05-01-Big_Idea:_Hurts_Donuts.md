@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Big Idea- Hurts Donuts](http://www.ourdigitalmags.com/publication/?i=583668&ver=html5&p=43)

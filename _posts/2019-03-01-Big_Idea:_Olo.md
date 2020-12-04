@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Big Idea- Olo](http://www.ourdigitalmags.com/publication/?i=569390&ver=html5&p=37)

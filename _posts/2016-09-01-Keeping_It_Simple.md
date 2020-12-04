@@ -6,12 +6,15 @@ categories:
 tags:
   - Food
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
+  - Favorite
 
 
 
 ---
+
+> Andrea Reusing sticks to the basics with a one-pot dinner for Lantern's family meal
 
 [Keeping It Simple](https://issuu.com/shannonmedia/docs/chmseptoct2016/63)

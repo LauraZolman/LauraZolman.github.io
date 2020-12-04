@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Ones to Watch- The Baked Bear](http://www.ourdigitalmags.com/publication/?i=515715&ver=html5&p=34)

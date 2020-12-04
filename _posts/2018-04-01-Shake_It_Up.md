@@ -5,12 +5,14 @@ categories:
   - TASTE Magazine
 tags:
   - Beverage
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Be your own bartender with these three cocktails made with local spirits
 
 [Shake It Up](https://issuu.com/shannonmedia/docs/taste18/18)

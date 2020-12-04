@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Team Spirit Free](http://www.omagdigital.com/publication/?i=589382&ver=html5&p=48)

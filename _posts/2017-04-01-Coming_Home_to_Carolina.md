@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Brandon Sharp, the new chef at The Carolina Inn, is certainly not new to Chapel Hill. 
 
 [Coming Home to Carolina](https://issuu.com/shannonmedia/docs/chmapril17issuu/95)

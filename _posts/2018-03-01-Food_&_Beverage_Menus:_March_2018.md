@@ -9,12 +9,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Editor
-  - Editorial 
 
 
 
 ---
+
+
 
 [Food & Beverage Menus- March 2018](http://www.omagdigital.com/publication/?i=476712&ver=html5&p=18)

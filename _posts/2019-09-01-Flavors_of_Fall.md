@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Flavors of Fall](http://www.omagdigital.com/publication/?i=609879&ver=html5&p=62)

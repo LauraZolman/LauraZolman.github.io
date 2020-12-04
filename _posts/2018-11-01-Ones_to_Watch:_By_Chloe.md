@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Ones to Watch- By Chloe](http://www.ourdigitalmags.com/publication/?i=537053&ver=html5&p=37)

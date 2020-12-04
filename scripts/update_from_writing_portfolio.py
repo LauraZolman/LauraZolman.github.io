@@ -11,12 +11,15 @@ def make_tags(row):
     tags = ''.join(base.format(t) for t in tags if not pd.isnull(t))
     return tags
 
+def make_subtitle(sub):
+    return '> ' + sub if not pd.isnull(sub) else ''
+
 df = pd.read_csv('/Users/jessime.kirk/Downloads/Writing Portfolio - Sheet1.tsv', sep='\t')
 template = Path('/Users/jessime.kirk/Code/me/laura_website/scripts/template.md').read_text()
 for i, row in df.iterrows():
     if pd.isnull(row['Date']): continue
     d = {'title': row['Title'].replace(':', '-'),
-         'subtitle': '### ' + row['Subtitle'] if not pd.isnull(row['Subtitle']) else '',
+         'subtitle': make_subtitle(row['Subtitle']),
          'magazine': row['Magazine'],
          'tags': make_tags(row),
          'link': row['Link']}

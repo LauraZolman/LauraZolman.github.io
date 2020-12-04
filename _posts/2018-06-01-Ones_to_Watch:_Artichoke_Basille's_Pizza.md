@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Ones to Watch- Artichoke Basille's Pizza](http://www.ourdigitalmags.com/publication/?i=498214&ver=html5&p=35)

@@ -6,12 +6,14 @@ categories:
 tags:
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> The founders of The Makers Mercantile are building an online community that supports Triangle- and North Carolina-based artists
 
 [Meet Your Makers](https://issuu.com/shannonmedia/docs/dmoct_nov16/38)

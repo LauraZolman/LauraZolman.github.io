@@ -6,12 +6,14 @@ categories:
 tags:
   - Profile
   - Business
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Durham Children's Choir profile
 
 [Raise Your Voices](https://issuu.com/shannonmedia/docs/dmfebmar17/22)

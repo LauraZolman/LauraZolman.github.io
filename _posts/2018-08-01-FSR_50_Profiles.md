@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [FSR 50 Profiles](http://www.omagdigital.com/publication/?i=513494&ver=html5&p=38)

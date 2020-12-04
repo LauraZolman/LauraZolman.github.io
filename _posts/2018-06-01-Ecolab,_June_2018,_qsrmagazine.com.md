@@ -6,12 +6,15 @@ categories:
 tags:
   - Food
   - Business
+  - Editorial
+  - Marketing
   - Custom Content
   - Writer
-  - Editorial, Marketing
 
 
 
 ---
+
+
 
 [Ecolab, June 2018, qsrmagazine.com](https://www.qsrmagazine.com/sponsored/better-way-manage-food-safety-across-restaurant-chains)

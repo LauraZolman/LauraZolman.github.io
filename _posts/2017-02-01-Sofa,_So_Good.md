@@ -6,12 +6,14 @@ categories:
 tags:
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> For these furniture entrepreneurs, the Bull City is the perfect hub
 
 [Sofa, So Good](https://issuu.com/shannonmedia/docs/dmfebmar17/50)

@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Guide
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [News to Go, April 2019](http://www.ourdigitalmags.com/publication/?i=576612&ver=html5&p=18)

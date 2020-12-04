@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Restaurant profile
 
 [The Dish- Breakaway Cafe](https://issuu.com/shannonmedia/docs/chmdec16issuu/89)

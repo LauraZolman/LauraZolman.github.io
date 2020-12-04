@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Menu, Delivered](http://www.omagdigital.com/publication/?i=598563&ver=html5&p=48)

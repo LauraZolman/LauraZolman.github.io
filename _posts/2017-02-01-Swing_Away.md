@@ -7,12 +7,14 @@ tags:
   - Health & Fitness
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Baseball Rebellion returns to its Durham roots in August with a major training facility for athletes of all levels
 
 [Swing Away](https://issuu.com/shannonmedia/docs/dmfebmar17/54)

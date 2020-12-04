@@ -5,12 +5,14 @@ categories:
   - Durham Magazine
 tags:
   - Guide
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Durham Magazine guide
 
 [23 Ways to Have a Fantastic Summer](https://issuu.com/shannonmedia/docs/dmjune_julyissuu/48)

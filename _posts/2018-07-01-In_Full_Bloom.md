@@ -7,12 +7,14 @@ tags:
   - Business
   - Profile
   - Home & Garden
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Local florist business profile
 
 [In Full Bloom](https://issuu.com/shannonmedia/docs/dmjune_julyissuu/44)

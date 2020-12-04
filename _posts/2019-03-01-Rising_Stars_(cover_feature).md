@@ -9,12 +9,14 @@ tags:
   - Guide
   - Profile
   - Beverage
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Rising Stars (cover feature)](http://www.omagdigital.com/publication/?i=569355&ver=html5&p=40)

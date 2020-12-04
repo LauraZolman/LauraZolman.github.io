@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Sip Superlatives](http://www.omagdigital.com/publication/?i=491605&ver=html5&p=58)

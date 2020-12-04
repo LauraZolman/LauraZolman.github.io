@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [A Time to be Proactive](http://www.omagdigital.com/publication/?i=498359&ver=html5&p=58)

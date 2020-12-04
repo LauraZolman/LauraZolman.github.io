@@ -6,12 +6,14 @@ categories:
 tags:
   - Food
   - Guide
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Founder Colleen Minton gives us the scoop on this year's festivities
 
 [Can't Miss Terra Vita Events](https://issuu.com/shannonmedia/docs/chmseptoct2016/81)

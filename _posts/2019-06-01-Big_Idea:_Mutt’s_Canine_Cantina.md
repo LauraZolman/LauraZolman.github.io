@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Big Idea- Mutt’s Canine Cantina](http://www.ourdigitalmags.com/publication/?i=589939&ver=html5&p=35)

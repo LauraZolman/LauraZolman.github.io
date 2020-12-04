@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Ones to Watch- Hattie B's Hot Chicken](http://www.ourdigitalmags.com/publication/?i=520898&ver=html5&p=37)

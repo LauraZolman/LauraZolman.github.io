@@ -6,12 +6,14 @@ categories:
 tags:
   - Relationship
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Engagement profile
 
 [Making the Team](https://issuu.com/shannonmedia/docs/dmfebmar17/96)

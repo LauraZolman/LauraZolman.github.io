@@ -7,12 +7,14 @@ tags:
   - Home & Garden
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Architect profile
 
 [Two Styles, One Studio](https://issuu.com/shannonmedia/docs/dmapr16/58)

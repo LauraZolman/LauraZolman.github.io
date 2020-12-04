@@ -6,12 +6,14 @@ categories:
 tags:
   - Relationship
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Engagement profile
 
 [Passing Love Notes](https://issuu.com/shannonmedia/docs/issuu_Durham Magazine_sept16_9bf3f42b3769d2/97)

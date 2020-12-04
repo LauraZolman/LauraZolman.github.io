@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Ones to Watch- Beefsteak](http://www.ourdigitalmags.com/publication/?i=491431&ver=html5&p=51)

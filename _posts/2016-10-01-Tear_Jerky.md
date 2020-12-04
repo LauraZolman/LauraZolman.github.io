@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> It's true, we are smitten with Two Brothers Jerky.
 
 [Tear Jerky](https://issuu.com/shannonmedia/docs/dmoct_nov16/26)

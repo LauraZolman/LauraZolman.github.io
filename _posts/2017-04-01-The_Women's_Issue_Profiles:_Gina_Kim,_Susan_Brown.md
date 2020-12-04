@@ -6,12 +6,14 @@ categories:
 tags:
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [The Women's Issue Profiles- Gina Kim, Susan Brown](https://issuu.com/shannonmedia/docs/chmapril17issuu/41)

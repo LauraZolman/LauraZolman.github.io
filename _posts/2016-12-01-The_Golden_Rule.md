@@ -6,12 +6,14 @@ categories:
 tags:
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Therapy dogs bring a touch of relief to UNC patients
 
 [The Golden Rule](https://issuu.com/shannonmedia/docs/chmdec16issuu/49)

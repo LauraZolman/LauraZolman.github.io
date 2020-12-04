@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Getting Inventive with Events](http://www.omagdigital.com/publication/?i=519801&ver=html5&p=54)

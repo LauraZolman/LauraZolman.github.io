@@ -6,12 +6,14 @@ categories:
 tags:
   - Relationship
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Wedding profile
 
 [Picture-Perfect Proposal](https://issuu.com/shannonmedia/docs/dmjune_julyissuu/106)

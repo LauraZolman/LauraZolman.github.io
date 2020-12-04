@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Big Idea- Kneaders](http://www.ourdigitalmags.com/publication/?i=546461&ver=html5&p=35)

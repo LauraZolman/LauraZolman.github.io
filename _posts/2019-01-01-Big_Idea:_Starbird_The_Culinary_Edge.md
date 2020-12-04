@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Big Idea- Starbird/The Culinary Edge](http://www.ourdigitalmags.com/publication/?i=553243&ver=html5&p=31)

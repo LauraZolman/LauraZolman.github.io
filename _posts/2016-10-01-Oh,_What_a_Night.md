@@ -6,12 +6,14 @@ categories:
 tags:
   - Relationship
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Wedding profile
 
 [Oh, What a Night](https://issuu.com/shannonmedia/docs/dmoct_nov16/105)

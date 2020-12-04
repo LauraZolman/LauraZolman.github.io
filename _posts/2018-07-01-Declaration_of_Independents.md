@@ -8,12 +8,14 @@ tags:
   - Business
   - Guide
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Declaration of Independents](http://www.omagdigital.com/publication/?i=506575&ver=html5&p=61)

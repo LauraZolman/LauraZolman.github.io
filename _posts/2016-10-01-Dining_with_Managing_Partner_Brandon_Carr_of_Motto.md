@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Q&A
 
 [Dining with Managing Partner Brandon Carr of Motto](https://issuu.com/shannonmedia/docs/dmoct_nov16/90)

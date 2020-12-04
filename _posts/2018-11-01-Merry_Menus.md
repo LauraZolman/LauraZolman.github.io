@@ -9,12 +9,14 @@ tags:
   - Guide
   - Profile
   - Beverage
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Merry Menus](http://www.omagdigital.com/publication/?i=537052&ver=html5&p=48)

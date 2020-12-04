@@ -7,12 +7,14 @@ tags:
   - Food
   - Business
   - Profile
+  - Editorial 
   - Business-to-Business
   - Writer
-  - Editorial 
 
 
 
 ---
+
+
 
 [Ones to Watch- Anna's Taqueria](http://www.ourdigitalmags.com/publication/?i=506600&ver=html5&p=33)

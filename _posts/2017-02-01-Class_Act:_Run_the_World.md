@@ -6,12 +6,14 @@ categories:
 tags:
   - Profile
   - Health & Fitness
+  - Editorial 
   - Community
   - Writer
-  - Editorial 
 
 
 
 ---
+
+> Rio Paralympian Desmond Jackson blazes his own trail
 
 [Class Act- Run the World](https://issuu.com/shannonmedia/docs/dmfebmar17/60)
