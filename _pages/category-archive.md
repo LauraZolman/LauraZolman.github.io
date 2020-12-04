@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
+title: "Posts by Publication"
 layout: categories
-permalink: /categories/
+permalink: /publications/
 author_profile: true
 entries_layout: grid
 ---

@@ -1,11 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Publications"
+    url: /publications/
+  - title: "Topics"
+    url: /topics/
+  - title: "Hire Me"
     url: /about/
-  - title: "Projects"
-    url: /projects/
