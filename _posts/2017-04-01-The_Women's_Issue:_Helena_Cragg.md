@@ -16,4 +16,4 @@ tags:
 
 > Director, LGTBQ Center of Durham
 
-[The Women's Issue- Helena Cragg](https://issuu.com/shannonmedia/docs/dma17_issuu/64)
+<a href="https://issuu.com/shannonmedia/docs/dma17_issuu/64" target="_blank">Read Full Story</a>

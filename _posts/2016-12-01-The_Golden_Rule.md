@@ -16,4 +16,4 @@ tags:
 
 > Therapy dogs bring a touch of relief to UNC patients
 
-[The Golden Rule](https://issuu.com/shannonmedia/docs/chmdec16issuu/49)
+<a href="https://issuu.com/shannonmedia/docs/chmdec16issuu/49" target="_blank">Read Full Story</a>

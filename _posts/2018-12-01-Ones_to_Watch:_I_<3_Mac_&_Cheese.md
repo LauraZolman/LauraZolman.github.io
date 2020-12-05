@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> This build-your-own concept turned to a large food purveyor to make its starting costs realistic for franchisees.
 
-
-[Ones to Watch- I <3 Mac & Cheese](http://www.ourdigitalmags.com/publication/?i=546461&ver=html5&p=33)
+<a href="http://www.ourdigitalmags.com/publication/?i=546461&ver=html5&p=33" target="_blank">Read Full Story</a>

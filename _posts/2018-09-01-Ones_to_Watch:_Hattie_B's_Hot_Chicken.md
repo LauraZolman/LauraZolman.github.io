@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Leaning on a career in cafeterias, the founder of this Nashville favorite is taking Music City's famous heat nationwide. 
 
-
-[Ones to Watch- Hattie B's Hot Chicken](http://www.ourdigitalmags.com/publication/?i=520898&ver=html5&p=37)
+<a href="http://www.ourdigitalmags.com/publication/?i=520898&ver=html5&p=37" target="_blank">Read Full Story</a>

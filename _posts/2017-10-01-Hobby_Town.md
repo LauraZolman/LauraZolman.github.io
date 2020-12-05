@@ -16,4 +16,4 @@ tags:
 
 > No matter your kiddos' interests, our community has you covered
 
-[Hobby Town](https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/22)
+<a href="https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/22" target="_blank">Read Full Story</a>

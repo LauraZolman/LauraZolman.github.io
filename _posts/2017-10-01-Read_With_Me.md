@@ -16,4 +16,4 @@ tags:
 
 > Check out these unique local story hours
 
-[Read With Me](https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/38)
+<a href="https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/38" target="_blank">Read Full Story</a>

@@ -17,4 +17,4 @@ tags:
 
 > Local restaurant profile
 
-[The Dish- Postal Fish Company](https://issuu.com/shannonmedia/docs/chhm_issuu_jf18/88)
+<a href="https://issuu.com/shannonmedia/docs/chhm_issuu_jf18/88" target="_blank">Read Full Story</a>

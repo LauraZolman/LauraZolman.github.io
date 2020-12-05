@@ -17,4 +17,4 @@ tags:
 
 > Neal's Deli stacks their selections high with quality ingredients
 
-[The Superior Sandwich](https://issuu.com/shannonmedia/docs/chhm_issue/70)
+<a href="https://issuu.com/shannonmedia/docs/chhm_issue/70" target="_blank">Read Full Story</a>

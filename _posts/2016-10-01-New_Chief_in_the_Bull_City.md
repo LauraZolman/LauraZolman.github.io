@@ -15,4 +15,4 @@ tags:
 
 > Police Chief Cerelyn "C.J." Davis talks about switching the DPD's philosophy to 'a guardian mentality from a warrior mentality'
 
-[New Chief in the Bull City](https://issuu.com/shannonmedia/docs/dmoct_nov16/31)
+<a href="https://issuu.com/shannonmedia/docs/dmoct_nov16/31" target="_blank">Read Full Story</a>

@@ -17,4 +17,4 @@ tags:
 
 > Durhamite Rachel Widmark is the co-founder of Fernweh Jewelry, a line inspired by faraway lands and dedicated to giving back to women in developing countries where the jewelry components are made. 
 
-[More Than a Statement](https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/27)
+<a href="https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/27" target="_blank">Read Full Story</a>

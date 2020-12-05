@@ -16,4 +16,4 @@ tags:
 
 > The Rostamis' garden in south Durham is almost as impressive as the couple who constructed it
 
-[Blooming Where Planted](https://issuu.com/shannonmedia/docs/dmmay17issuu/41)
+<a href="https://issuu.com/shannonmedia/docs/dmmay17issuu/41" target="_blank">Read Full Story</a>

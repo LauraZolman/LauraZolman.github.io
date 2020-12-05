@@ -19,4 +19,4 @@ tags:
 
 > Consumers love burgers, especially better burgers. How do limited-service brands get them to order more?
 
-[A Boom for the Better](http://www.ourdigitalmags.com/publication/?i=583668&ver=html5&p=27)
+<a href="http://www.ourdigitalmags.com/publication/?i=583668&ver=html5&p=27" target="_blank">Read Full Story</a>

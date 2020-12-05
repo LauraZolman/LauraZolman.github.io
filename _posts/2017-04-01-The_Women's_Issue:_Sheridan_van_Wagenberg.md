@@ -16,4 +16,4 @@ tags:
 
 > Executive Director, Caring House
 
-[The Women's Issue- Sheridan van Wagenberg](https://issuu.com/shannonmedia/docs/dma17_issuu/56)
+<a href="https://issuu.com/shannonmedia/docs/dma17_issuu/56" target="_blank">Read Full Story</a>

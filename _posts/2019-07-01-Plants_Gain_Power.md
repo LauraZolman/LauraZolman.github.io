@@ -19,4 +19,4 @@ tags:
 
 > The plant-based protein space is ripe for innovation as brands choose a range of tactics to capture vegan, vegetarian, and omnivore diners. 
 
-[Plants Gain Power](http://www.ourdigitalmags.com/publication/?i=598569&ver=html5&p=21)
+<a href="http://www.ourdigitalmags.com/publication/?i=598569&ver=html5&p=21" target="_blank">Read Full Story</a>

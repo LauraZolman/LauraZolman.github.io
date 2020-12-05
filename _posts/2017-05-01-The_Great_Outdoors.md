@@ -16,4 +16,4 @@ tags:
 
 > Three families embrace Chapel Hill's natural beauty with tranquil (and tricked-out) escapes
 
-[The Great Outdoors](https://issuu.com/shannonmedia/docs/chmmj17issuu_/50)
+<a href="https://issuu.com/shannonmedia/docs/chmmj17issuu_/50" target="_blank">Read Full Story</a>

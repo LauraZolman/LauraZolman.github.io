@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Founder/owner Reed Allen Slobusky is building a good-for-you oasis in Sin City. 
 
-
-[Ones to Watch- SkinnyFATS](http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=39)
+<a href="http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=39" target="_blank">Read Full Story</a>

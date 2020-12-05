@@ -15,4 +15,4 @@ tags:
 
 > Be your own bartender with these three cocktails made with local spirits
 
-[Shake It Up](https://issuu.com/shannonmedia/docs/taste18/18)
+<a href="https://issuu.com/shannonmedia/docs/taste18/18" target="_blank">Read Full Story</a>

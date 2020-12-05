@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> John Schnatter to Exit Papa John's Board
 
-
-[News to Go, April 2019](http://www.ourdigitalmags.com/publication/?i=576612&ver=html5&p=18)
+<a href="http://www.ourdigitalmags.com/publication/?i=576612&ver=html5&p=18" target="_blank">Read Full Story</a>

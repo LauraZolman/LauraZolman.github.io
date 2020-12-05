@@ -11,11 +11,12 @@ tags:
   - Editorial 
   - Business-to-Business
   - Writer
+  - Favorite
 
 
 
 ---
 
+> Killing it at the on-site food and beverage game, these are the hotel brands to look out for and learn from. 
 
-
-[Destination Dining](http://www.omagdigital.com/publication/?i=526971&ver=html5&p=40)
+<a href="http://www.omagdigital.com/publication/?i=526971&ver=html5&p=40" target="_blank">Read Full Story</a>

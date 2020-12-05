@@ -16,4 +16,4 @@ tags:
 
 > We shopped local boutiques for pieces to make your wardrobe pop this season
 
-[Fall Fashion](https://issuu.com/shannonmedia/docs/chatm_issue/38)
+<a href="https://issuu.com/shannonmedia/docs/chatm_issue/38" target="_blank">Read Full Story</a>

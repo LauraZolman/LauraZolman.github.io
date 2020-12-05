@@ -16,4 +16,4 @@ tags:
 
 > Chief Program Officer, Student U
 
-[The Women's Issue- Bettina Umstead](https://issuu.com/shannonmedia/docs/dma17_issuu/54)
+<a href="https://issuu.com/shannonmedia/docs/dma17_issuu/54" target="_blank">Read Full Story</a>

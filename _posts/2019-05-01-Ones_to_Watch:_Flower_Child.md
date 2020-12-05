@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Restaurant veteran Sam Fox gives people what they want with this lively, health-driven fast casual. 
 
-
-[Ones to Watch- Flower Child](http://www.ourdigitalmags.com/publication/?i=583668&ver=html5&p=41)
+<a href="http://www.ourdigitalmags.com/publication/?i=583668&ver=html5&p=41" target="_blank">Read Full Story</a>

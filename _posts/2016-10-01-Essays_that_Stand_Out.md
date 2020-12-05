@@ -16,4 +16,4 @@ tags:
 
 > Advice from a successful applicant
 
-[Essays that Stand Out](https://issuu.com/shannonmedia/docs/Durham Magazine_ns16-17_issuu/53)
+<a href="https://issuu.com/shannonmedia/docs/Durham Magazine_ns16-17_issuu/53" target="_blank">Read Full Story</a>

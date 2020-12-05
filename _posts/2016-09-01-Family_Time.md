@@ -16,4 +16,4 @@ tags:
 
 > Jujube owner Charlie Deal, wife Crissy and 10-year-old Benji enjoy slow-paced meals centered around seasonal ingredients and time together
 
-[Family Time](https://issuu.com/shannonmedia/docs/chmseptoct2016/66)
+<a href="https://issuu.com/shannonmedia/docs/chmseptoct2016/66" target="_blank">Read Full Story</a>

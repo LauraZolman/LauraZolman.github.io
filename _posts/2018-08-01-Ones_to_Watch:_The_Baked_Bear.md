@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> With thousands of possible combinations, this ice cream sandwich chain is making its mark across the country.
 
-
-[Ones to Watch- The Baked Bear](http://www.ourdigitalmags.com/publication/?i=515715&ver=html5&p=34)
+<a href="http://www.ourdigitalmags.com/publication/?i=515715&ver=html5&p=34" target="_blank">Read Full Story</a>

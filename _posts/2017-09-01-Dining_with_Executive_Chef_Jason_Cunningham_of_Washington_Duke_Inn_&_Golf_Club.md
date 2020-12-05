@@ -17,4 +17,4 @@ tags:
 
 > Q&A 
 
-[Dining with Executive Chef Jason Cunningham of Washington Duke Inn & Golf Club](https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/98)
+<a href="https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/98" target="_blank">Read Full Story</a>

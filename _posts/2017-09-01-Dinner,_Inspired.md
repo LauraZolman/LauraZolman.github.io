@@ -16,4 +16,4 @@ tags:
 
 > Home cook profile
 
-[Dinner, Inspired](https://issuu.com/shannonmedia/docs/chatm_issue/66)
+<a href="https://issuu.com/shannonmedia/docs/chatm_issue/66" target="_blank">Read Full Story</a>

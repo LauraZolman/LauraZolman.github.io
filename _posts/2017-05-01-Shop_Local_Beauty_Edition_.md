@@ -16,4 +16,4 @@ tags:
 
 > Feeling fresh with these local beauty finds
 
-[Shop Local Beauty Edition ](https://issuu.com/shannonmedia/docs/chmmj17issuu_/24)
+<a href="https://issuu.com/shannonmedia/docs/chmmj17issuu_/24" target="_blank">Read Full Story</a>

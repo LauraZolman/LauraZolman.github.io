@@ -17,4 +17,4 @@ tags:
 
 > For a taste of childhood in the South, look no further than the banana pudding at Mama Dip's. 
 
-[The Dish- Mama Dip's ](https://issuu.com/shannonmedia/docs/chmapril17issuu/98)
+<a href="https://issuu.com/shannonmedia/docs/chmapril17issuu/98" target="_blank">Read Full Story</a>

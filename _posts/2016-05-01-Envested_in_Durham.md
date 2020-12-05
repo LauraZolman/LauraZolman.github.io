@@ -5,7 +5,8 @@ categories:
   - Durham Magazine
 tags:
   - Business
-  - Profile 
+  - Profile
+  - Technology
   - Editorial 
   - Community
   - Writer
@@ -16,4 +17,4 @@ tags:
 
 > Basing her tech company here wasn't part of the plan, but Isa Watson fell in love with the Bull City's vibrant entrepreneurial community 
 
-[Envested in Durham](https://issuu.com/shannonmedia/docs/dmmayissuu/24)
+<a href="https://issuu.com/shannonmedia/docs/dmmayissuu/24" target="_blank">Read Full Story</a>

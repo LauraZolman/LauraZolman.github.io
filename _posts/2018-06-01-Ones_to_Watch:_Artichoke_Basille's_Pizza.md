@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Two cousins left the family business in Staten Island to take on Manhattan's cutthroat pizza scene. A decade later, they're ready to build an empire.
 
-
-[Ones to Watch- Artichoke Basille's Pizza](http://www.ourdigitalmags.com/publication/?i=498214&ver=html5&p=35)
+<a href="http://www.ourdigitalmags.com/publication/?i=498214&ver=html5&p=35" target="_blank">Read Full Story</a>

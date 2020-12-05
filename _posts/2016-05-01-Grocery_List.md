@@ -16,4 +16,4 @@ tags:
 
 
 
-[Grocery List](https://issuu.com/shannonmedia/docs/dmrelo17issuu/54)
+<a href="https://issuu.com/shannonmedia/docs/dmrelo17issuu/54" target="_blank">Read Full Story</a>

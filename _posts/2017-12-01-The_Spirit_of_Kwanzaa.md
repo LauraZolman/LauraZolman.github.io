@@ -13,6 +13,6 @@ tags:
 
 ---
 
+> Family tradition profile
 
-
-[The Spirit of Kwanzaa](https://issuu.com/shannonmedia/docs/dmdj18issuu/43)
+<a href="https://issuu.com/shannonmedia/docs/dmdj18issuu/43" target="_blank">Read Full Story</a>

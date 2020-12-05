@@ -16,4 +16,4 @@ tags:
 
 > Wedding profile
 
-[Oh, What a Night](https://issuu.com/shannonmedia/docs/dmoct_nov16/105)
+<a href="https://issuu.com/shannonmedia/docs/dmoct_nov16/105" target="_blank">Read Full Story</a>

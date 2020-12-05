@@ -17,4 +17,4 @@ tags:
 
 > Profile on The Root Cellar
 
-[Putting Down Roots in Chatham Magazine Park](https://issuu.com/shannonmedia/docs/chatm_issue/31)
+<a href="https://issuu.com/shannonmedia/docs/chatm_issue/31" target="_blank">Read Full Story</a>

@@ -16,4 +16,4 @@ tags:
 
 > Notasium founders Preston Clarke and Stephen Norman-Scott now bang pots, strum banjo and rush down slides—all aimed at teaching kids music appreciation
 
-[Striking the Right Chord](https://issuu.com/shannonmedia/docs/dmjune_julyissuu/27)
+<a href="https://issuu.com/shannonmedia/docs/dmjune_julyissuu/27" target="_blank">Read Full Story</a>

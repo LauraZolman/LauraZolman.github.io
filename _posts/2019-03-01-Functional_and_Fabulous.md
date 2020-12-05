@@ -19,4 +19,4 @@ tags:
 
 > Fast casuals and quick serves are powering up menu items with ingredients that add health benefits on top of deliciousness.
 
-[Functional and Fabulous](http://www.ourdigitalmags.com/publication/?i=569390&ver=html5&p=23)
+<a href="http://www.ourdigitalmags.com/publication/?i=569390&ver=html5&p=23" target="_blank">Read Full Story</a>

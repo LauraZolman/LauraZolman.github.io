@@ -16,4 +16,4 @@ tags:
 
 > Engagement profile
 
-[Garden Plots](https://issuu.com/shannonmedia/docs/dmoct_nov16/104)
+<a href="https://issuu.com/shannonmedia/docs/dmoct_nov16/104" target="_blank">Read Full Story</a>

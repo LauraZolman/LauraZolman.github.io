@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Domino's New Platform Rewards Points for Competitors' Pizza
 
-
-[News to Go, March 2019](http://www.ourdigitalmags.com/publication/?i=569390&ver=html5&p=20)
+<a href="http://www.ourdigitalmags.com/publication/?i=569390&ver=html5&p=20" target="_blank">Read Full Story</a>

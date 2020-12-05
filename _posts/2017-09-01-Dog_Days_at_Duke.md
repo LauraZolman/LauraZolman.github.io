@@ -6,6 +6,7 @@ categories:
 tags:
   - Business
   - Profile
+  - Technology
   - Editorial 
   - Community
   - Writer
@@ -16,4 +17,4 @@ tags:
 
 > Sure, your pooch is smart, but how smart? 
 
-[Dog Days at Duke](https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/36)
+<a href="https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/36" target="_blank">Read Full Story</a>

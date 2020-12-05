@@ -19,4 +19,4 @@ tags:
 
 > Fine-dining menu innovation meets fast casual in the fine-casual segment. 
 
-[Fine and Fast](http://www.ourdigitalmags.com/publication/?i=657994&ver=html5&p=21)
+<a href="http://www.ourdigitalmags.com/publication/?i=657994&ver=html5&p=21" target="_blank">Read Full Story</a>

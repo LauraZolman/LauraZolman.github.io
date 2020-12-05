@@ -16,4 +16,4 @@ tags:
 
 
 
-[The Women's Issue Profiles- Gina Kim, Susan Brown](https://issuu.com/shannonmedia/docs/chmapril17issuu/41)
+<a href="https://issuu.com/shannonmedia/docs/chmapril17issuu/41" target="_blank">Read Full Story</a>

@@ -20,4 +20,4 @@ tags:
 
 > Smoothie brands are diversifying their menus to make health foods approachable for new guests and regulars alike.
 
-[Smooth Operator](http://www.ourdigitalmags.com/publication/?i=655314&ver=html5&p=21)
+<a href="http://www.ourdigitalmags.com/publication/?i=655314&ver=html5&p=21" target="_blank">Read Full Story</a>

@@ -16,4 +16,4 @@ tags:
 
 > Engagement profile
 
-[Grand Gesture](https://issuu.com/shannonmedia/docs/dmmayissuu/113)
+<a href="https://issuu.com/shannonmedia/docs/dmmayissuu/113" target="_blank">Read Full Story</a>

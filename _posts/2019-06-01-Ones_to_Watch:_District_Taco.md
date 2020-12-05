@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> From taco stand to D.C. empire, this growing chain spotlights the flavors and culinary traditions of the Yucatan. 
 
-
-[Ones to Watch- District Taco](http://www.ourdigitalmags.com/publication/?i=589939&ver=html5&p=33)
+<a href="http://www.ourdigitalmags.com/publication/?i=589939&ver=html5&p=33" target="_blank">Read Full Story</a>

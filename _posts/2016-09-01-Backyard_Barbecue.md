@@ -16,4 +16,4 @@ tags:
 
 > Brendan and Leslie Cox of Oakleaf and Alberello Cafe and Market throw a casual get-together for close friends
 
-[Backyard Barbecue](https://issuu.com/shannonmedia/docs/chmseptoct2016/58)
+<a href="https://issuu.com/shannonmedia/docs/chmseptoct2016/58" target="_blank">Read Full Story</a>

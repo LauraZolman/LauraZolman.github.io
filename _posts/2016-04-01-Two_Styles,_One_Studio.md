@@ -17,4 +17,4 @@ tags:
 
 > Architect profile
 
-[Two Styles, One Studio](https://issuu.com/shannonmedia/docs/dmapr16/58)
+<a href="https://issuu.com/shannonmedia/docs/dmapr16/58" target="_blank">Read Full Story</a>

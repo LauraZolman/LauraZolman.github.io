@@ -17,4 +17,4 @@ tags:
 
 > How one man's craving for a childhood favorite not only led to an interesting seafood concept, but also blazed a new path in sustainable seafood sourcing.
 
-[Longing for Lobster](http://www.ourdigitalmags.com/publication/?i=491431&ver=html5&p=53)
+<a href="http://www.ourdigitalmags.com/publication/?i=491431&ver=html5&p=53" target="_blank">Read Full Story</a>

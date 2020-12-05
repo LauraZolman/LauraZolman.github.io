@@ -14,6 +14,6 @@ tags:
 
 ---
 
-> Tagging  – and wagging – along with their owners, these dogs and cats know hot o put in a full day's work
+> Tagging  – and wagging – along with their owners, these dogs and cats know how to put in a full day's work
 
-[Pet Projects](https://issuu.com/shannonmedia/docs/chatm_issue/80)
+<a href="https://issuu.com/shannonmedia/docs/chatm_issue/80" target="_blank">Read Full Story</a>

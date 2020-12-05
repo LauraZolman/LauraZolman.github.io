@@ -17,4 +17,4 @@ tags:
 
 > Best Chef winner Ricky Moore opens a second location of his beloved Saltbox Seafood Joint – also named Best Seafood in our poll
 
-[Worth His Salt](https://issuu.com/shannonmedia/docs/dmjjissuu/68)
+<a href="https://issuu.com/shannonmedia/docs/dmjjissuu/68" target="_blank">Read Full Story</a>

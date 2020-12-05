@@ -15,6 +15,6 @@ tags:
 
 ---
 
-> Folding together creative combos and even fusion falvors, we can't get these tacos off our minds. 
+> Folding together creative combos and even fusion flavors, we can't get these tacos off our minds. 
 
-[Let’s Taco ‘Bout It](https://issuu.com/shannonmedia/docs/chmseptoct17/98 )
+<a href="https://issuu.com/shannonmedia/docs/chmseptoct17/98 " target="_blank">Read Full Story</a>

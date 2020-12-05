@@ -17,4 +17,4 @@ tags:
 
 > One local employs artisans a world away
 
-[Kurtas for a Cause](https://issuu.com/shannonmedia/docs/chmissuujulyaug/32)
+<a href="https://issuu.com/shannonmedia/docs/chmissuujulyaug/32" target="_blank">Read Full Story</a>

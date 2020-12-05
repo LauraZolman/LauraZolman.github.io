@@ -11,11 +11,12 @@ tags:
   - Editorial 
   - Business-to-Business
   - Writer
+  - Favorite
 
 
 
 ---
 
+> Join us in a toast to 10 restaurants with killer beverage programs, and learn what you can steal from each one. 
 
-
-[Sip Superlatives](http://www.omagdigital.com/publication/?i=491605&ver=html5&p=58)
+<a href="http://www.omagdigital.com/publication/?i=491605&ver=html5&p=58" target="_blank">Read Full Story</a>

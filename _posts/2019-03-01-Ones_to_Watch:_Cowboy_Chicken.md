@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> After a hampered attempt at expansion, this rotisserie chicken brand is tackling growth anew.
 
-
-[Ones to Watch- Cowboy Chicken](http://www.ourdigitalmags.com/publication/?i=569390&ver=html5&p=35)
+<a href="http://www.ourdigitalmags.com/publication/?i=569390&ver=html5&p=35" target="_blank">Read Full Story</a>

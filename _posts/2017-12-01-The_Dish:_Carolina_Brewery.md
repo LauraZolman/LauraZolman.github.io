@@ -17,4 +17,4 @@ tags:
 
 > Walking on Franklin Street recently, you may have noticed Carolina Brewery's new look.
 
-[The Dish- Carolina Brewery](https://issuu.com/shannonmedia/docs/chm_issuu_dec17/91)
+<a href="https://issuu.com/shannonmedia/docs/chm_issuu_dec17/91" target="_blank">Read Full Story</a>

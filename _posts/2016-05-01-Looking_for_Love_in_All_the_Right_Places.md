@@ -16,4 +16,4 @@ tags:
 
 > Wedding profile
 
-[Looking for Love in All the Right Places](https://issuu.com/shannonmedia/docs/dmmayissuu/114)
+<a href="https://issuu.com/shannonmedia/docs/dmmayissuu/114" target="_blank">Read Full Story</a>

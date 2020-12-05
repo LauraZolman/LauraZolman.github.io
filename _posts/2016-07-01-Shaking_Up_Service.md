@@ -17,4 +17,4 @@ tags:
 
 > City Kitchen's Wayne Jordan shares his behind-the-bar perspective
 
-[Shaking Up Service](https://issuu.com/shannonmedia/docs/chmissuujulyaug/69)
+<a href="https://issuu.com/shannonmedia/docs/chmissuujulyaug/69" target="_blank">Read Full Story</a>

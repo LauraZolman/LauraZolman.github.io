@@ -19,4 +19,4 @@ tags:
 
 > Riding on flexitarianism's popularity, seafood has become popular for its health benefits and flavor adaptability. 
 
-[Flexing for Fish](http://www.ourdigitalmags.com/publication/?i=643080&ver=html5&p=23)
+<a href="http://www.ourdigitalmags.com/publication/?i=643080&ver=html5&p=23" target="_blank">Read Full Story</a>

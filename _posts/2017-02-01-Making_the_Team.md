@@ -16,4 +16,4 @@ tags:
 
 > Engagement profile
 
-[Making the Team](https://issuu.com/shannonmedia/docs/dmfebmar17/96)
+<a href="https://issuu.com/shannonmedia/docs/dmfebmar17/96" target="_blank">Read Full Story</a>

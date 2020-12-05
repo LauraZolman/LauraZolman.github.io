@@ -17,4 +17,4 @@ tags:
 
 > Local restaurant profile
 
-[Hot Spot - Lucky's Delicatessen](https://issuu.com/shannonmedia/docs/dma17_issuu/82)
+<a href="https://issuu.com/shannonmedia/docs/dma17_issuu/82" target="_blank">Read Full Story</a>

@@ -16,6 +16,6 @@ tags:
 
 ---
 
+> A collection of 100 independently owned and operated restaurants from around the country
 
-
-[Declaration of Independents](http://www.omagdigital.com/publication/?i=506575&ver=html5&p=61)
+<a href="http://www.omagdigital.com/publication/?i=506575&ver=html5&p=61" target="_blank">Read Full Story</a>

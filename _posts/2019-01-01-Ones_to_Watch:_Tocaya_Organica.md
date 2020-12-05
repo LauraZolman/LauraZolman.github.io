@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> The fine-casual Mexican concept builds a crowd-pleasing menu beginning with a vegan base. 
 
-
-[Ones to Watch- Tocaya Organica](http://www.ourdigitalmags.com/publication/?i=553243&ver=html5&p=29)
+<a href="http://www.ourdigitalmags.com/publication/?i=553243&ver=html5&p=29" target="_blank">Read Full Story</a>

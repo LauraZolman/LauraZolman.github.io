@@ -16,4 +16,4 @@ tags:
 
 > Engagement profile
 
-[Passing Love Notes](https://issuu.com/shannonmedia/docs/issuu_Durham Magazine_sept16_9bf3f42b3769d2/97)
+<a href="https://issuu.com/shannonmedia/docs/issuu_Durham Magazine_sept16_9bf3f42b3769d2/97" target="_blank">Read Full Story</a>

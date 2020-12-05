@@ -17,4 +17,4 @@ tags:
 
 > A member of the Osage Nation, Ben Jacobs partnered with friend Matt Chandra to promote oft-overlooked Native American cuisine.
 
-[A New Take on Native Foods](http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=43)
+<a href="http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=43" target="_blank">Read Full Story</a>

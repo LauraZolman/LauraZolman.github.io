@@ -16,4 +16,4 @@ tags:
 
 > Rio Paralympian Desmond Jackson blazes his own trail
 
-[Class Act- Run the World](https://issuu.com/shannonmedia/docs/dmfebmar17/60)
+<a href="https://issuu.com/shannonmedia/docs/dmfebmar17/60" target="_blank">Read Full Story</a>

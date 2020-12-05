@@ -17,4 +17,4 @@ tags:
 
 > Gardening advice for our unique climate
 
-[Green Thumb](https://issuu.com/shannonmedia/docs/chmreloguideissuu/74)
+<a href="https://issuu.com/shannonmedia/docs/chmreloguideissuu/74" target="_blank">Read Full Story</a>

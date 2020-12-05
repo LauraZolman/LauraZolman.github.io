@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Fulfilling the need for fresh-Mex in they university-saturated city of Boston, Mike Kamio generated a devout following. 
 
-
-[Ones to Watch- Anna's Taqueria](http://www.ourdigitalmags.com/publication/?i=506600&ver=html5&p=33)
+<a href="http://www.ourdigitalmags.com/publication/?i=506600&ver=html5&p=33" target="_blank">Read Full Story</a>

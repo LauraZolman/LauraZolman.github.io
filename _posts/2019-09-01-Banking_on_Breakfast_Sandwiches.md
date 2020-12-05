@@ -19,4 +19,4 @@ tags:
 
 > On-the-go convenience meets culinary innovation on the breakfast menu.
 
-[Banking on Breakfast Sandwiches](http://www.ourdigitalmags.com/publication/?i=611107&ver=html5&p=21)
+<a href="http://www.ourdigitalmags.com/publication/?i=611107&ver=html5&p=21" target="_blank">Read Full Story</a>

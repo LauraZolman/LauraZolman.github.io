@@ -16,4 +16,4 @@ tags:
 
 > Home cook profile
 
-[Southern Musings](https://issuu.com/shannonmedia/docs/chatm_issue/62)
+<a href="https://issuu.com/shannonmedia/docs/chatm_issue/62" target="_blank">Read Full Story</a>

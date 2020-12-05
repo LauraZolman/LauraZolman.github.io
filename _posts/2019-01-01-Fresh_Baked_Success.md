@@ -19,4 +19,4 @@ tags:
 
 > Bread presents a host of challenges—especially for those who insist on baking fresh in each location.
 
-[Fresh Baked Success](http://www.ourdigitalmags.com/publication/?i=553243&ver=html5&p=18 )
+<a href="http://www.ourdigitalmags.com/publication/?i=553243&ver=html5&p=18 " target="_blank">Read Full Story</a>

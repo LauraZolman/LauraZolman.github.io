@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> This Southeast micro-chain pushes the fast-casual envelope with elevated plates and sterling customer service.
 
-
-[Ones to Watch- Urban Cookhouse](http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=41)
+<a href="http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=41" target="_blank">Read Full Story</a>

@@ -19,4 +19,4 @@ tags:
 
 > Big brands and new fast casuals alike think it's the bird's time to shine.
 
-[Fried Chicken Takeover](http://www.ourdigitalmags.com/publication/?i=629526&ver=html5&p=23)
+<a href="http://www.ourdigitalmags.com/publication/?i=629526&ver=html5&p=23" target="_blank">Read Full Story</a>

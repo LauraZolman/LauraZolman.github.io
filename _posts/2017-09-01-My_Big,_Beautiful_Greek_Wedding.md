@@ -16,4 +16,4 @@ tags:
 
 > Wedding profile
 
-[My Big, Beautiful Greek Wedding](https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/114)
+<a href="https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/114" target="_blank">Read Full Story</a>

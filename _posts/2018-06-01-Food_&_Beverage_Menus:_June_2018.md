@@ -17,6 +17,6 @@ tags:
 
 ---
 
+> p. 17-36
 
-
-[Food & Beverage Menus- June 2018](http://www.omagdigital.com/publication/?i=498359&ver=html5&p=21)
+<a href="http://www.omagdigital.com/publication/?i=498359&ver=html5&p=21" target="_blank">Read Full Story</a>

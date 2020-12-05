@@ -16,4 +16,4 @@ tags:
 
 > Wedding profile
 
-[This Magic Moment](https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/113)
+<a href="https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/113" target="_blank">Read Full Story</a>

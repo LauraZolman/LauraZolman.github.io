@@ -11,11 +11,12 @@ tags:
   - Editorial 
   - Business-to-Business
   - Writer
+  - Favorite
 
 
 
 ---
 
+> How full-service restaurants are redefining autumn menus—and leveraging seasonal offerings in a profitable way.
 
-
-[Flavors of Fall](http://www.omagdigital.com/publication/?i=609879&ver=html5&p=62)
+<a href="http://www.omagdigital.com/publication/?i=609879&ver=html5&p=62" target="_blank">Read Full Story</a>

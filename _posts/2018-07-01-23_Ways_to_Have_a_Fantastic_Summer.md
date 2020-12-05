@@ -15,4 +15,4 @@ tags:
 
 > Durham Magazine guide
 
-[23 Ways to Have a Fantastic Summer](https://issuu.com/shannonmedia/docs/dmjune_julyissuu/48)
+<a href="https://issuu.com/shannonmedia/docs/dmjune_julyissuu/48" target="_blank">Read Full Story</a>

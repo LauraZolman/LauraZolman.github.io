@@ -17,4 +17,4 @@ tags:
 
 > With kids big and small
 
-[Where to Eat](https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/18)
+<a href="https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/18" target="_blank">Read Full Story</a>

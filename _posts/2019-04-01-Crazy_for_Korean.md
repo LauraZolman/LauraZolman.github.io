@@ -19,4 +19,4 @@ tags:
 
 > Americans are loving the spicy, sour, and all-around craveable elements of Korean cuisine. Here's how quick-serve restaurants are meeting this demand.
 
-[Crazy for Korean](http://www.ourdigitalmags.com/publication/?i=576612&ver=html5&p=21)
+<a href="http://www.ourdigitalmags.com/publication/?i=576612&ver=html5&p=21" target="_blank">Read Full Story</a>

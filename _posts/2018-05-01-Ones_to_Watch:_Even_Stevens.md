@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Catering to socially conscious millennials, this rapidly growing fast casual donates one sandwich for every one sold. 
 
-
-[Ones to Watch- Even Stevens](http://www.ourdigitalmags.com/publication/?i=491431&ver=html5&p=49)
+<a href="http://www.ourdigitalmags.com/publication/?i=491431&ver=html5&p=49" target="_blank">Read Full Story</a>

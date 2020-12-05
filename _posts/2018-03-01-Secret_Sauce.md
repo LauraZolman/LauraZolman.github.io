@@ -17,4 +17,4 @@ tags:
 
 > Tacodeli relies on its strong company culture as it expands within the Texas market.
 
-[Secret Sauce](http://www.ourdigitalmags.com/publication/?i=478793&ver=html5&p=33)
+<a href="http://www.ourdigitalmags.com/publication/?i=478793&ver=html5&p=33" target="_blank">Read Full Story</a>

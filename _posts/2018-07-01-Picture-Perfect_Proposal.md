@@ -16,4 +16,4 @@ tags:
 
 > Wedding profile
 
-[Picture-Perfect Proposal](https://issuu.com/shannonmedia/docs/dmjune_julyissuu/106)
+<a href="https://issuu.com/shannonmedia/docs/dmjune_julyissuu/106" target="_blank">Read Full Story</a>

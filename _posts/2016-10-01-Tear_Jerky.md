@@ -17,4 +17,4 @@ tags:
 
 > It's true, we are smitten with Two Brothers Jerky.
 
-[Tear Jerky](https://issuu.com/shannonmedia/docs/dmoct_nov16/26)
+<a href="https://issuu.com/shannonmedia/docs/dmoct_nov16/26" target="_blank">Read Full Story</a>

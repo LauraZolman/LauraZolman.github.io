@@ -16,4 +16,4 @@ tags:
 
 > Profile on event series Groundworkk
 
-[Subtract the Sharks](https://issuu.com/shannonmedia/docs/dmmayissuu/18)
+<a href="https://issuu.com/shannonmedia/docs/dmmayissuu/18" target="_blank">Read Full Story</a>

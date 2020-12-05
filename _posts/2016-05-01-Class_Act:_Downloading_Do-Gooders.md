@@ -5,7 +5,8 @@ categories:
   - Durham Magazine
 tags:
   - Business
-  - Profile 
+  - Profile
+  - Technology
   - Editorial 
   - Community
   - Writer
@@ -16,4 +17,4 @@ tags:
 
 > We're here and accepting computers, Larry Herst wants the Durham community to know. His company, Triangle Ecycling, originally began as a computer recycling service but has since grown into much more.  
 
-[Class Act- Downloading Do-Gooders](https://issuu.com/shannonmedia/docs/dmmayissuu/14)
+<a href="https://issuu.com/shannonmedia/docs/dmmayissuu/14" target="_blank">Read Full Story</a>

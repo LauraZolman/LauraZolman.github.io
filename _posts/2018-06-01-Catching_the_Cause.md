@@ -17,4 +17,4 @@ tags:
 
 > How two lifelong friends put a mission for sustainability to action through sandwiches—and a farm.
 
-[Catching the Cause](http://www.ourdigitalmags.com/publication/?i=498214&ver=html5&p=36)
+<a href="http://www.ourdigitalmags.com/publication/?i=498214&ver=html5&p=36" target="_blank">Read Full Story</a>

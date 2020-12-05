@@ -19,4 +19,4 @@ tags:
 
 > How growing demand for off-premises dining is shaping menu innovation in quick-service restaurants. 
 
-[Taking It to Go](http://www.ourdigitalmags.com/publication/?i=651167&ver=html5&p=21)
+<a href="http://www.ourdigitalmags.com/publication/?i=651167&ver=html5&p=21" target="_blank">Read Full Story</a>

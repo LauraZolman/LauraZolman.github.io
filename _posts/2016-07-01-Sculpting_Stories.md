@@ -16,4 +16,4 @@ tags:
 
 > Linda Ashman weaves magical tales for kids
 
-[Sculpting Stories](https://issuu.com/shannonmedia/docs/chmissuujulyaug/31)
+<a href="https://issuu.com/shannonmedia/docs/chmissuujulyaug/31" target="_blank">Read Full Story</a>

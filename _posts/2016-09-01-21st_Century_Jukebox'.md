@@ -5,7 +5,8 @@ categories:
   - Durham Magazine
 tags:
   - Business
-  - Profile 
+  - Profile
+  - Technology
   - Editorial 
   - Community
   - Writer
@@ -16,4 +17,4 @@ tags:
 
 > Durham-launched app Crowdtunes give patrons control over restaurants' playlists
 
-[21st Century Jukebox'](https://issuu.com/shannonmedia/docs/issuu_Durham Magazine_sept16_9bf3f42b3769d2/36)
+<a href="https://issuu.com/shannonmedia/docs/issuu_Durham Magazine_sept16_9bf3f42b3769d2/36" target="_blank">Read Full Story</a>

@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> What started as an at-home trick to eat more veggies has boomed into a thriving franchise with a wide-ranging consumer base. 
 
-
-[Ones to Watch- Clean Juice](http://www.ourdigitalmags.com/publication/?i=576612&ver=html5&p=32)
+<a href="http://www.ourdigitalmags.com/publication/?i=576612&ver=html5&p=32" target="_blank">Read Full Story</a>

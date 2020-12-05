@@ -19,4 +19,4 @@ tags:
 
 > What do today's customers want from smoothies, slushies, and blended coffees? Turns out, very different things.
 
-[Figuring Out Frozen](http://www.ourdigitalmags.com/publication/?i=563238&ver=html5&p=23)
+<a href="http://www.ourdigitalmags.com/publication/?i=563238&ver=html5&p=23" target="_blank">Read Full Story</a>

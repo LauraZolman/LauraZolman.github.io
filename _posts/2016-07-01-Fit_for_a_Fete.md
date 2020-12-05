@@ -16,4 +16,4 @@ tags:
 
 > Why one couple chose TOPO's Great Room for their wedding reception
 
-[Fit for a Fete](https://issuu.com/shannonmedia/docs/chmissuujulyaug/76)
+<a href="https://issuu.com/shannonmedia/docs/chmissuujulyaug/76" target="_blank">Read Full Story</a>

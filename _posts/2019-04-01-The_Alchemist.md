@@ -10,11 +10,12 @@ tags:
   - Editorial 
   - Business-to-Business
   - Writer
+  - Favorite
 
 
 
 ---
 
+> With her Chicago restaurant Mi Tocaya Antojeria, Diana Davila pays homage to Mexico's history while pushing the cuisine and industry forward.
 
-
-[The Alchemist](http://www.omagdigital.com/publication/?i=575413&ver=html5&p=40)
+<a href="http://www.omagdigital.com/publication/?i=575413&ver=html5&p=40" target="_blank">Read Full Story</a>

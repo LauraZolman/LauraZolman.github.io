@@ -17,4 +17,4 @@ tags:
 
 > Local florist business profile
 
-[In Full Bloom](https://issuu.com/shannonmedia/docs/dmjune_julyissuu/44)
+<a href="https://issuu.com/shannonmedia/docs/dmjune_julyissuu/44" target="_blank">Read Full Story</a>

@@ -16,4 +16,4 @@ tags:
 
 > Lisa Bobst and Scott Evangelista had fun designing their functional Carrboro home
 
-[Make Believe Modern](https://issuu.com/shannonmedia/docs/chmapril17issuu/62)
+<a href="https://issuu.com/shannonmedia/docs/chmapril17issuu/62" target="_blank">Read Full Story</a>

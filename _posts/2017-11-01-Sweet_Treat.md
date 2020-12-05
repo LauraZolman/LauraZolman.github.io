@@ -17,4 +17,4 @@ tags:
 
 > A family-run business since 1982, Yogurt Pump's unique frozen treats continue to be a local favorite
 
-[Sweet Treat](https://issuu.com/shannonmedia/docs/chmreloguideissuu/64)
+<a href="https://issuu.com/shannonmedia/docs/chmreloguideissuu/64" target="_blank">Read Full Story</a>

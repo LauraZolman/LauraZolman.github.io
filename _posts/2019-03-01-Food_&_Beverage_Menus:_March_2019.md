@@ -17,6 +17,6 @@ tags:
 
 ---
 
+> p. 17-36
 
-
-[Food & Beverage Menus- March 2019](http://www.omagdigital.com/publication/?i=569355&ver=html5&p=19)
+<a href="http://www.omagdigital.com/publication/?i=569355&ver=html5&p=19" target="_blank">Read Full Story</a>

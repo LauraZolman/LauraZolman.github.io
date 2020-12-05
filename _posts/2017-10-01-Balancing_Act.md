@@ -16,4 +16,4 @@ tags:
 
 > Local parents share how they manage work and family
 
-[Balancing Act](https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/15)
+<a href="https://issuu.com/shannonmedia/docs/yourfamily2017-18_issuu/15" target="_blank">Read Full Story</a>

@@ -12,11 +12,12 @@ tags:
   - Editorial 
   - Business-to-Business
   - Writer
+  - Favorite
 
 
 
 ---
 
+> Holiday menu musts and inspiration.
 
-
-[Merry Menus](http://www.omagdigital.com/publication/?i=537052&ver=html5&p=48)
+<a href="http://www.omagdigital.com/publication/?i=537052&ver=html5&p=48" target="_blank">Read Full Story</a>

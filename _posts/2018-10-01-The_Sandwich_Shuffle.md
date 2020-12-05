@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Two iconic sandwich chains launch major rebranding initiatives. 
 
-
-[The Sandwich Shuffle](http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=35)
+<a href="http://www.ourdigitalmags.com/publication/?i=527130&ver=html5&p=35" target="_blank">Read Full Story</a>

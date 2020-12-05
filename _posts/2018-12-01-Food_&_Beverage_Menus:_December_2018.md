@@ -17,6 +17,6 @@ tags:
 
 ---
 
+> p. 17-36
 
-
-[Food & Beverage Menus- December 2018](http://www.omagdigital.com/publication/?i=545773&ver=html5&p=19)
+<a href="http://www.omagdigital.com/publication/?i=545773&ver=html5&p=19" target="_blank">Read Full Story</a>

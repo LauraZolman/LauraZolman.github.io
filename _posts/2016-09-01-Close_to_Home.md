@@ -15,4 +15,4 @@ tags:
 
 > Local author Danny Johnson profile
 
-[Close to Home](https://issuu.com/shannonmedia/docs/issuu_Durham Magazine_sept16_9bf3f42b3769d2/27)
+<a href="https://issuu.com/shannonmedia/docs/issuu_Durham Magazine_sept16_9bf3f42b3769d2/27" target="_blank">Read Full Story</a>

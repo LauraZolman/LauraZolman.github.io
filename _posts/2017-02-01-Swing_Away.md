@@ -17,4 +17,4 @@ tags:
 
 > Baseball Rebellion returns to its Durham roots in August with a major training facility for athletes of all levels
 
-[Swing Away](https://issuu.com/shannonmedia/docs/dmfebmar17/54)
+<a href="https://issuu.com/shannonmedia/docs/dmfebmar17/54" target="_blank">Read Full Story</a>

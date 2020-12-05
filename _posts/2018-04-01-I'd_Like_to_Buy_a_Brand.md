@@ -17,4 +17,4 @@ tags:
 
 > Ashley Morris may not have founded Capriotti's, but he built the framework that would take it to the next level. 
 
-[I'd Like to Buy a Brand](http://www.ourdigitalmags.com/publication/?i=483740&ver=html5&p=34%20Ones%20to%20Watch)
+<a href="http://www.ourdigitalmags.com/publication/?i=483740&ver=html5&p=34%20Ones%20to%20Watch" target="_blank">Read Full Story</a>

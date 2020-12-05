@@ -16,4 +16,4 @@ tags:
 
 > Assistant editor Laura Zolman Kirk shares why she – and her dog, Winston – love their vet at VCA Timberlyne
 
-[Barking Praises](https://issuu.com/shannonmedia/docs/chmissuujulyaug/91)
+<a href="https://issuu.com/shannonmedia/docs/chmissuujulyaug/91" target="_blank">Read Full Story</a>

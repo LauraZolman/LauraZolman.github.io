@@ -16,4 +16,4 @@ tags:
 
 > Durham Children's Choir profile
 
-[Raise Your Voices](https://issuu.com/shannonmedia/docs/dmfebmar17/22)
+<a href="https://issuu.com/shannonmedia/docs/dmfebmar17/22" target="_blank">Read Full Story</a>

@@ -19,4 +19,4 @@ tags:
 
 > Salads on fast-casual menus are breaking out of their greens-only box.
 
-[Salad Spinners](http://www.ourdigitalmags.com/publication/?i=620053&ver=html5&p=29)
+<a href="http://www.ourdigitalmags.com/publication/?i=620053&ver=html5&p=29" target="_blank">Read Full Story</a>

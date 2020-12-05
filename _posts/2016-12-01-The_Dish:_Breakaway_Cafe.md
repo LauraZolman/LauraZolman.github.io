@@ -17,4 +17,4 @@ tags:
 
 > Restaurant profile
 
-[The Dish- Breakaway Cafe](https://issuu.com/shannonmedia/docs/chmdec16issuu/89)
+<a href="https://issuu.com/shannonmedia/docs/chmdec16issuu/89" target="_blank">Read Full Story</a>

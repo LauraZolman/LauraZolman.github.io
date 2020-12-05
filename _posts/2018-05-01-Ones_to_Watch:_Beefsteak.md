@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Employing chef-driven recipes and sustainable practices, this healthy concept hopes to continue 'vegetating' consumers. 
 
-
-[Ones to Watch- Beefsteak](http://www.ourdigitalmags.com/publication/?i=491431&ver=html5&p=51)
+<a href="http://www.ourdigitalmags.com/publication/?i=491431&ver=html5&p=51" target="_blank">Read Full Story</a>

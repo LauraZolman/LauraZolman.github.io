@@ -16,4 +16,4 @@ tags:
 
 
 
-[The Women's Issue- Jessamyn Stanley, Heather Garrett, Elizabeth South, Laura Helms Reece, MaryAnn E. Black, & Sarah Parker](https://issuu.com/shannonmedia/docs/dmmayissuu/45)
+<a href="https://issuu.com/shannonmedia/docs/dmmayissuu/45" target="_blank">Read Full Story</a>

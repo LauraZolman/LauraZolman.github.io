@@ -16,4 +16,4 @@ tags:
 
 > Engagement profile
 
-[Friend Request](https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/112)
+<a href="https://issuu.com/shannonmedia/docs/dm_dec_jan_issuu/112" target="_blank">Read Full Story</a>

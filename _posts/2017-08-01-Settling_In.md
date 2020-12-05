@@ -16,4 +16,4 @@ tags:
 
 > The newly transplanted Morgan family puts down roots in Duke Forest.
 
-[Settling In](https://issuu.com/shannonmedia/docs/dmaugustissuu/39)
+<a href="https://issuu.com/shannonmedia/docs/dmaugustissuu/39" target="_blank">Read Full Story</a>

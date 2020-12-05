@@ -16,4 +16,4 @@ tags:
 
 > In an effort to rebuild healthy honey bee populations, Bee Downtown is taking to our roofs
 
-[In the Business of Bees](https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/34)
+<a href="https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/34" target="_blank">Read Full Story</a>

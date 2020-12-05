@@ -17,6 +17,6 @@ tags:
 
 ---
 
-> With a saturated build-your-own market, here's how pizza brands are differentiating themselves from competitiors.
+> With a saturated build-your-own market, here's how pizza brands are differentiating themselves from competitors.
 
-[Piece of the Pie](http://www.ourdigitalmags.com/publication/?i=604337&ver=html5&p=27)
+<a href="http://www.ourdigitalmags.com/publication/?i=604337&ver=html5&p=27" target="_blank">Read Full Story</a>

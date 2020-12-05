@@ -16,4 +16,4 @@ tags:
 
 > Assistant Editor Laura Zolman Kirk and her pup, Winston, shop local at Other End of the Leash
 
-[Gone to the Dogs](https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/68)
+<a href="https://issuu.com/shannonmedia/docs/dma_94ad3024a5d2ec/68" target="_blank">Read Full Story</a>

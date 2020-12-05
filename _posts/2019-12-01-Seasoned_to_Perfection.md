@@ -19,4 +19,4 @@ tags:
 
 > Global seasonings and spices continue to dominate quick-serve menus, especially in the Mediterranean category.
 
-[Seasoned to Perfection](http://www.ourdigitalmags.com/publication/?i=637310&ver=html5&p=21)
+<a href="http://www.ourdigitalmags.com/publication/?i=637310&ver=html5&p=21" target="_blank">Read Full Story</a>

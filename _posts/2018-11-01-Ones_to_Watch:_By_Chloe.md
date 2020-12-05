@@ -15,6 +15,6 @@ tags:
 
 ---
 
+> Harnessing the power of social media, this burgeoning concept brings a pop vibe to vegan food. 
 
-
-[Ones to Watch- By Chloe](http://www.ourdigitalmags.com/publication/?i=537053&ver=html5&p=37)
+<a href="http://www.ourdigitalmags.com/publication/?i=537053&ver=html5&p=37" target="_blank">Read Full Story</a>
