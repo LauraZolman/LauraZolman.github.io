@@ -22,7 +22,7 @@ feature_row:
     alt: "marketing"
     title: "Marketing"
     excerpt: "Vinfolio, UberEats, Miss Vickie's, Restaurant Technology Inc., and more."
-    url: "/tags/marketing/"
+    url: "/tags/marketing"
     btn_class: "btn--primary"
     btn_label: "Read Clips"
   - image_path: /assets/images/headshot1.jpg
@@ -31,7 +31,7 @@ feature_row:
     excerpt: "Kentuckian based in San Francisco currently working in fine wine."
     url: "/about"
     btn_class: "btn--primary"
-    btn_label: "Learn more"     
+    btn_label: "Learn More"     
 ---
 
 {% include feature_row %}

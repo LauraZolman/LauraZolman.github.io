@@ -11,4 +11,4 @@ tags:
 
 {subtitle}
 
-[{title}]({link})
+<a href="{link}" target="_blank">Read Full Story</a>
