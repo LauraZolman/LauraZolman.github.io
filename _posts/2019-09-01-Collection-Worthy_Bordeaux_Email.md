@@ -1,0 +1,18 @@
+---
+title: Collection-Worthy Bordeaux Email
+last_modified_at: 2020-11-29
+categories:
+  - Vinfolio
+tags:
+  - Beverage
+  - Email
+  - Marketing
+  - Marketing Copy
+
+
+
+---
+
+> This is a marketplace email I conceptualized, sourced, strategized content, designed, and edited.
+
+<a href="http://links.vinfolio.com/e/evib?_t=414f72b8e11b4850bb66506e2c10eaa1&_m=fe415540a69a46beb666d2b7b69e0bfc&_e=8EYa4Y7Rad_MK0_Z1T5aYwXbwIvpdh1sMeOhlsYUj3jWf66_Xg_S-H6FMHfjnatcNcl7d8t9MTdo5VEB-1Yby2gh_8vSkOQjBdyGIl0RtifRXX73OqeSJEYVpaitunTx" target="_blank">Read Full Story</a>
