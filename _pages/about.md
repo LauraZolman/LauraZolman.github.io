@@ -1,12 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-I am a detail-oriented, efficient, and creative writer and editor currently living in San Francisco, California.
-I specialize in food and beverage edit but am highly skilled at organizing, crafting, and marketing all forms of business-to-business, community, and lifestyle edit.
+I am an experienced writer, editor, and content manager with experience in—and passion for—food, drink, and lifestyle. Currently, I am the Fine Wine Content Manager at Napa-based digital marketplace Vinfolio, where I strategize, manage, and execute all online and print brand content including paid ads, an SEO blog, and three email marketing campaigns per day. In addition, I have served as the food and beverage editor for national restaurant business-to-business magazines _FSR_ and _QSR_, done my time in community journalism by heading a small-town newspaper in Mebane, North Carolina, and served on the rigorous editorial team for lifestyle-focused publications _Chapel Hill Magazine_ and _Durham Magazine_. I am available for freelance writing opportunities and especially interested in assignments involving food, beverage, and restaurant trends, bourbon, and wine. Please feel free to reach out to the email below at any time with assignment requests.
+<br>
+<br>
+Cheers,
+<br>
+Laura
 
-* [Resume](https://docs.google.com/document/d/1DJNjDSqzoH1E0yhZSZBZkq2l6JmcnwjOGrHgSdmwlhQ/edit?usp=sharing)
-* [Email](mailto:laura.zolman@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/laura-kirk-35b77273)
-* [Employer](https://vinfolio.com/)
+[Email Me](mailto:laura.zolman@gmail.com)
