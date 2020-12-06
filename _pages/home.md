@@ -6,8 +6,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash_cocktail3.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Read Clips"
-      url: "/publications/"
+    - label: "Read Clips"
+      url: "/tags/favorite"
 excerpt: >
   Freelance writer specializing in food and beverage edit
 feature_row:

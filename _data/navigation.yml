@@ -1,7 +1,7 @@
 main:
+  - title: "Writing Samples"
+    url: /tags/favorite
   - title: "Publications"
     url: /publications/
-  - title: "Topics"
-    url: /topics/
   - title: "Hire Me"
     url: /about/
