@@ -25,10 +25,10 @@ feature_row:
     url: "/tags/marketing"
     btn_class: "btn--primary"
     btn_label: "Read Clips"
-  - image_path: /assets/images/headshot1.jpg
+  - image_path: /assets/images/headshot_2023.jpg
     alt: "headshot"
     title: "About Me"
-    excerpt: "Kentuckian based in San Francisco currently working in fine wine."
+    excerpt: "Lexington, Kentucky-based writer, editor, and content manager."
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn More"     
