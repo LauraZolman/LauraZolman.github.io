@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Laura Zolman"
   avatar : "/assets/images/headshot1.jpg"
-  bio    : "I am a detail-oriented, efficient, and creative writer and editor currently living in San Francisco, California. I specialize in food and beverage edit but am highly skilled at organizing, crafting, and marketing all forms of business-to-business, community, and lifestyle edit."
+  bio    : "I am a detail-oriented, efficient, and creative writer and editor currently living in Lexington, Kentucky. I specialize in food and beverage edit but am highly skilled at organizing, crafting, and marketing all forms of business-to-business, community, and lifestyle edit."
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-file"
