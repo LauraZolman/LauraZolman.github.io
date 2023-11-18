@@ -18,7 +18,7 @@ subtitle: Writer, Editor, and Content Manager
 name: Laura
 email: laura.zolman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a detail-oriented, efficient, and creative writer and editor currently living in San Francisco, California.
+  I am a detail-oriented, efficient, and creative writer and editor currently living in Lexington, Kentucky. 
   I specialize in food and beverage edit but am highly skilled at organizing, crafting, and marketing all forms of business-to-business, community, and lifestyle edit.
 twitter_username: username
 github_username: username
@@ -72,9 +72,9 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/laura-zolman-35b77273/"
-    - label: "Employer"
-      icon: "fas fa-fw fa-link"
-      url: "https://vinfolio.com/"
+    # - label: "Employer"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://vinfolio.com/"
 
 
 footer:
