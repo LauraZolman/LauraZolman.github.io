@@ -9,7 +9,7 @@ header:
     - label: "Read Clips"
       url: "/tags/favorite"
 excerpt: >
-  Freelance writer specializing in food and beverage edit
+  Content strategist specializing in food and beverage edit
 feature_row:
   - image_path: /assets/images/cake2.jpg
     alt: "editorial"
